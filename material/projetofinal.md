@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemplo: dados educacionais do ENEM]**.  
+Este projeto consiste na análise de **[]**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
