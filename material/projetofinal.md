@@ -1,4 +1,18 @@
-# Projeto Final de Análise de Dados
+<span align="center">
+ 
+## Projeto Final de Análise de Dados | Reprograma 🔎📊📈
+
+</span>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4195253d-e88c-4004-a093-d153c5ed12c8"/>
+</div>
+
+<p align="center">
+
+
+  
+</p>
 
 ## Contexto  
 Este projeto consiste na análise da **Trajetória Olímpica do Brasil**.  
@@ -39,3 +53,6 @@ Realizar uma análise dos dados com o objetivo de verificar o desempenho do Bras
 ---
 
 Desenvolvido por Danieli Fernandes 💜
+
+</p>
+
