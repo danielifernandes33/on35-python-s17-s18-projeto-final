@@ -1,37 +1,38 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de **[]**.  
+Este projeto consiste na análise da **Trajetória Olímpica do Brasil**.  
 
 ## Etapas do projeto:
-1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
-2. **Definir Objetivo e Perguntas**  [Estabelecer o objetivo e formular perguntas-chave com base nas variáveis disponíveis.]
-3. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.]
-4. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.]
-5. **Criar Visualizações no Tableau**  [Desenvolver gráficos que sintetizem os principais insights.]
-6. **Preparar Apresentação Final**  [Apresentar o tema, dados e visualizações de forma clara e objetiva.]
+1. **Selecionar a Base de Dados** 
+2. **Definir Objetivo e Perguntas**  
+3. **Realizar Análise Exploratória**  
+4. **Gerar Base Final**  
+5. **Criar Visualizações no Tableau**  
+6. **Preparar Apresentação Final**  
 
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: [Nome da base de dados e fonte (por exemplo, Microdados do ENEM, INEP)]  
-- **Base 2**: [Nome da base de dados e fonte (opcional, caso use outra base complementar)]  
+- **Base 1**: Microdados das Olímpiadas, Kaggle
 
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu projeto, por exemplo: identificar as variáveis que influenciam o desempenho dos alunos no ENEM]**.  
+Realizar uma análise dos dados com o objetivo de verificar o desempenho do Brasil nas Olimpíadas de verão desde a sua primeira participação até a edição de 2016, destacando o desempenho, as conquistas, e o papel do recorte de gênero ao longo dos anos.  
 
-### As perguntas norteadoras deste projeto são:  
-1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
-
+### As perguntas norteadoras deste projeto são:   
+1. Quais atletas foram pioneiros nos jogos?
+2. Há diferenças de desempenho entre os gêneros dos atletas? 
+3. Existe correlação entre investimento e quantidade de atletas enviados/medalhas conquistadas? (Próximos passos)  
+4. Quantos atletas foram enviados ao longo dos anos?
+5. Quantas medalhas foram conquistadas?
+6. Quais esportes tiveram mais destaque?
+7. Como foi a participação feminino nos jogos?
 ---
 
 ## Ferramentas Utilizadas  
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
-- **Google Colab** (opcional): Para execução de notebooks de forma colaborativa e em nuvem.  
+- **Google Colab**: Para execução de notebooks de forma colaborativa e em nuvem.  
