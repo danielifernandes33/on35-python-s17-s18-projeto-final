@@ -36,3 +36,6 @@ Realizar uma análise dos dados com o objetivo de verificar o desempenho do Bras
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
 - **Google Colab**: Para execução de notebooks de forma colaborativa e em nuvem.  
+---
+
+Desenvolvido por Danieli Fernandes 💜
